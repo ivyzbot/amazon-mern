@@ -2,7 +2,7 @@ import { Product } from './types/Product';
 
 export const sampleProducts: Product[] = [
   {
-    name: 'Nike Slim shirt',
+    name: 'aNike Slim shirtaaaaaaaa',
     slug: 'nike-slim-shirt',
     category: 'Shirts',
     image: '../images/p1.jpg',
